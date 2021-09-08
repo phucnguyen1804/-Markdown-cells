@@ -4,7 +4,7 @@
 
 *I like to play with data*
 
-## THE FOLOWING CODE TEST THE GAUSS FORMULAR
+## THE FOLOWING CODE TEST PYTHON CODE
 ```PYTHON
 print"(Hello world)"
 ```
